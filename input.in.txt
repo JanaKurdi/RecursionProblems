@@ -1,0 +1,9 @@
+8
+nthMultipleof 117 9
+nthMultipleof 145 9
+nthMultipleof 145 5
+findSmallest 21;6;145;26;-2;0;19;243;15
+findSmallest 21;6;-145;26;-2;0;19;243;15
+isPatternStringOfN abcdabcd 4
+isPatternStringOfN abcdabcd 3
+isPatternStringOfN abcdabcde 4

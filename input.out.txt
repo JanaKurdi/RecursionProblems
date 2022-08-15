@@ -1,0 +1,24 @@
+Commnad: nthMultipleof 117 9
+Output: 117 is the 13-th multiple of 9
+
+Commnad: nthMultipleof 145 9
+Output: 145 is not a multiple of 9
+
+Commnad: nthMultipleof 145 5
+Output: 145 is the 29-th multiple of 5
+
+Commnad: findSmallest 21;6;145;26;-2;0;19;243;15
+Output: The smallest number is: -2
+
+Commnad: findSmallest 21;6;-145;26;-2;0;19;243;15
+Output: The smallest number is: -145
+
+Commnad: isPatternStringOfN abcdabcd 4
+Output: abcdabcd is a composed of a pattern of size 4
+
+Commnad: isPatternStringOfN abcdabcd 3
+Output: abcdabcd is not composed of a pattern of size 3
+
+Commnad: isPatternStringOfN abcdabcde 4
+Output: abcdabcde is not composed of a pattern of size 4
+
